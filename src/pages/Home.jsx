@@ -10,7 +10,7 @@ export default function Home() {
    
     <div>
       <h3>welcome in my home pages!!!!</h3>
-      <Cards />
+  
     </div>
     <Footer />
     </div>
