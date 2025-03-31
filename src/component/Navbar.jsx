@@ -12,6 +12,10 @@ const Navbar = () => {
       justifyContent: 'space-between',
       alignItems: 'center',
       boxShadow: '0 4px 8px rgba(65, 217, 228, 0.85)',
+      position:'fixed',
+      top:0,
+      width:'100%',
+      zIndex:1000,
     }}>
       {/* Logo Section */}
       <div style={{ color: 'white', fontSize: '1.5rem', fontWeight: 'bold' }}>
